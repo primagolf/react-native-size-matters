@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/nirsky/react-native-size-matters#readme",
   "peerDependencies": {
+    "expo": "*",
     "react-native": "*"
   },
   "devDependencies": {
